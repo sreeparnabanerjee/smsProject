@@ -14,4 +14,5 @@ TESTS:
 
 To run tests node version 8.9.1 and npm version 5.5.1 (could have been dockerized :-(
 
+Put your api-key(shared over email) in smsProject/test/env.yaml
 Run 'npm run test' from path 'smsProject/test/integration'
