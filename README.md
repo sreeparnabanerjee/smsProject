@@ -9,3 +9,9 @@ Header:
 Content-Type: application/json  
 
 x-api-key: (api-key) shared in mail
+
+TESTS:
+
+To run tests node version 8.9.1 and npm version 5.5.1 (could have been dockerized :-(
+
+Run 'npm run test' from path 'smsProject/test/integration'
