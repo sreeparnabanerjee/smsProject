@@ -1,0 +1,26 @@
+{
+  "name": "sms",
+  "version": "1.0.0",
+  "description": "inbound outbound sms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc"
+  },
+  "author": "sreeparna",
+  "license": "ISC",
+  "dependencies": {
+    "@types/joi": "10.0.0",
+    "@types/node": "^8.5.1",
+    "bluebird": "^3.5.1",
+    "handy-redis": "^1.3.0",
+    "pg": "^7.4.3",
+    "promise-redis": "0.0.5",
+    "redis": "^2.8.0",
+    "reflect-metadata": "^0.1.12",
+    "typeorm": "^0.2.7",
+    "typescript": "2.6.2",
+    "util": "^0.11.0",
+    "winston": "^3.0.0"
+  }
+}
